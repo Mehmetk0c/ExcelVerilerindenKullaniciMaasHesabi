@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\exel veri çekme.exe.config
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\exel veri çekme.exe
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\exel veri çekme.pdb
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\ExcelDataReader.dll
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\ExcelDataReader.pdb
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\ExcelDataReader.xml
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel veri çekme.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel_veri_çekme.Form1.resources
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel_veri_çekme.Properties.Resources.resources
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel veri çekme.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel veri çekme.csproj.CopyComplete
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel veri çekme.exe
+C:\Users\lenovo\source\repos\exel veri çekme\exel veri çekme\obj\Debug\exel veri çekme.pdb
